@@ -101,6 +101,7 @@ void setup(){
   //init matrix
   H = new float[width*height];
   for(int i = 0; i < H.length; i++) H[i] = 0;
+  randomSeed(millis());
 }
 
 void draw(){
