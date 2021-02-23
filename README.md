@@ -11,7 +11,7 @@ You can only export the heightmap you generated as a grayscale image and you can
 The software is free and open source.
 
 # Installation
-This program is written in [Processing 3.5.4](https://www.processing.org/). You can either download the [Processing editor](https://www.processing.org/download/) and open the sketch from there or try one of the executables (Windows & Linux only). An online version will be available soon. Java 8 or greater is required.
+This program is written in [Processing 3.5.4](https://www.processing.org/). You can either download the [Processing editor](https://www.processing.org/download/) and open the sketch from there or try one of the executables (Windows & Linux only). An online version will be available soon. [Java 8 or greater](https://java.com/download/) is required.
 
 # Sample maps
 
