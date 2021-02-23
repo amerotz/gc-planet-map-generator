@@ -14,9 +14,9 @@ The software is free and open source.
 
 Here are some examples of what the program can generate:
 
-![1000 iterations](/images/1000 iterations.png)
+![1000 iterations](/images/1000%20iterations.png)
 
-![10000 iterations](/images/10000 iterations.png)
+![10000 iterations](/images/10000%20iterations.png)
 
 # Installation
 This program is written in [Processing 3.5.4](https://www.processing.org/). You can either download the [Processing editor](https://www.processing.org/download/) and open the sketch from there or try one of the executables (Windows & Linux only). An online version will be available soon. Java 8 or greater is required.
