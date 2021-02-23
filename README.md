@@ -12,9 +12,13 @@ The software is free and open source.
 
 # Sample maps
 
-Here are some examples of what the program can generate:
+Here are some examples of what the program can generate.
+
+After 1,000 iterations:
 
 ![1000 iterations](/images/1000%20iterations.png)
+
+10,000:
 
 ![10000 iterations](/images/10000%20iterations.png)
 
