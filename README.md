@@ -1,2 +1,2 @@
-# gc-planet-map-generator
+## gc-planet-map-generator
 A simple map generator for fictional planets
